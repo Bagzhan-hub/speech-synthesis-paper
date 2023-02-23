@@ -52,11 +52,11 @@ Repositories for collecting awesome speech paper:
 <h3 id="21">Autoregressive Model</h3>
 
 - Tacotron V1<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135) (Interspeech 2017)
-- Tacotron V2<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884) (ICASSP 2018)
+- [x] Tacotron V2<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884) (ICASSP 2018)
 - Deep Voice V1<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Deep Voice: Real-time Neural Text-to-Speech](https://arxiv.org/abs/1702.07825) (ICML 2017)
 - Deep Voice V2<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Deep Voice 2: Multi-Speaker Neural Text-to-Speech](https://arxiv.org/abs/1705.08947) (NeurIPS 2017)
 - Deep Voice V3<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654) (ICLR 2018)
-- Transformer-TTS<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Neural Speech Synthesis with Transformer Network](https://arxiv.org/abs/1809.08895) (AAAI 2019)
+- [x] Transformer-TTS<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Neural Speech Synthesis with Transformer Network](https://arxiv.org/abs/1809.08895) (AAAI 2019)
 - DurIAN: [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700) (2019)
 - [Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesis](https://arxiv.org/abs/1910.10288) (ICASSP 2020)
 - Flowtron (flow based): [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://arxiv.org/abs/2005.05957) (2020)
