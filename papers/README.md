@@ -118,6 +118,7 @@ List of papers not just about speech synthesis 😀.
 - [Unsupervised Learning For Sequence-to-sequence Text-to-speech For Low-resource Languages](https://arxiv.org/pdf/2008.04549.pdf) (Interspeech 2020)
 - Multilingual Speech Synthesis: [One Model, Many Languages: Meta-learning for Multilingual Text-to-Speech](https://arxiv.org/abs/2008.00768) (Interspeech 2020)
 - [Low-resource expressive text-to-speech using data augmentation](https://arxiv.org/abs/2011.05707) (2020-11)
+- [One TTS Alignment To Rule Them All](https://arxiv.org/pdf/2108.10447.pdf) (2021-08)
 - DenoiSpeech: [DenoiSpeech: Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547) (ICASSP 2021)
 - [Revisiting Over-Smoothness in Text to Speech](https://arxiv.org/pdf/2202.13066.pdf) (ACL 2022)
 - [Unsupervised Text-to-Speech Synthesis by Unsupervised Automatic Speech Recognition](https://arxiv.org/pdf/2203.15796.pdf) (2022-03)
@@ -318,6 +319,8 @@ List of papers not just about speech synthesis 😀.
 - Study of audio representations: [Audio representations for deep learning in sound synthesis: A review](https://arxiv.org/abs/2201.02490) (2022-01)
 - AudioLM: [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143) (2022-09)
 - AudioGen: [AudioGen: Textually Guided Audio Generation](https://arxiv.org/pdf/2209.15352.pdf) (2022-09)
+- NANSY++: [NANSY++: Unified Voice Synthesis with Neural Analysis and Synthesis](https://arxiv.org/abs/2211.09407) (2022-11)
+- VALL-E: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/pdf/2301.02111.pdf) (2023-01)
 
 <h3 id="72">Speech Separation</h3>
 
