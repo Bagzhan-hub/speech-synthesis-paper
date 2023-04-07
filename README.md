@@ -30,6 +30,7 @@ Repositories for collecting awesome speech paper:
 * [TTS towards Stylization](#4)
     * [Expressive TTS](#41)
     * [MultiSpeaker TTS](#42)
+    * [New Perspective on TTS](#43)
 * [Voice Conversion](#5)
     * [ASR & TTS Based](#51)
     * [VAE & Auto-Encoder Based](#52)
@@ -107,6 +108,7 @@ Repositories for collecting awesome speech paper:
 - [Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling](https://arxiv.org/pdf/2010.04301v1.pdf) (under review ICLR 2021)
 - EfficientTTS: [EfficientTTS: An Efficient and High-Quality Text-to-Speech Architecture](https://arxiv.org/abs/2012.03500) (2020-12)
 - VAENAR-TTS: [VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis](https://arxiv.org/pdf/2107.03298.pdf) (2021-07)
+- [One TTS Alignment To Rule Them All](https://arxiv.org/abs/2108.10447) (2021-08)
 
 <h3 id="24">Data Efficiency</h3>
 
@@ -234,6 +236,14 @@ Repositories for collecting awesome speech paper:
 - [Speaker Generation](https://arxiv.org/abs/2111.05095) (2021-11)
 - Meta-Voice: [Meta-Voice: Fast few-shot style transfer for expressive voice cloning using meta learning](https://arxiv.org/abs/2111.07218) (2021-11)
 
+<h3 id="43">New Perspective on TTS</h3>
+
+- PromptTTS: [PromptTTS: Controllable Text-to-Speech with Text Descriptions](https://arxiv.org/abs/2211.12171) (2022-11)
+- VALL-E: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/pdf/2301.02111.pdf) (2023-01)
+- InstructTTS: [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt](https://arxiv.org/abs/2301.13662) (2023-01)
+- Spear-TTS: [Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision](https://arxiv.org/abs/2302.03540) (2023-02)
+- FoundationTTS: [FoundationTTS: Text-to-Speech for ASR Customization with Generative Language Model](https://arxiv.org/pdf/2303.02939v2.pdf) (2023-03)
+
 
 <h2 id="5">Voice Conversion</h2>
 
@@ -292,6 +302,8 @@ Repositories for collecting awesome speech paper:
 - Opencpop: [Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis](https://arxiv.org/pdf/2201.07429.pdf) (2022-01)
 - [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/pdf/2202.13277.pdf) (ACL 2022)
 - [Learn2Sing 2.0: Diffusion and Mutual Information-Based Target Speaker SVS by Learning from Singing Teacher](https://arxiv.org/pdf/2203.16408.pdf) (2022-03)
+- MusicLM: [MusicLM: Generating Music From Text](https://arxiv.org/abs/2301.11325) (2023-01)
+- SingSong: [SingSong: Generating musical accompaniments from singing](https://arxiv.org/abs/2301.12662) (2023-01)
 
 <h3 id="62">Singing Voice Conversion</h3>
 
